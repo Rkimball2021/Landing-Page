@@ -88,9 +88,9 @@ div {
 	width: 150px; 
 	padding: 0; 
 	text-align: center;
-  
-
-  #footer {
+}
+ 
+#footer {
     color: lightgrey;
     font-size: 15px;
   }
