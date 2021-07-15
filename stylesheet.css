@@ -18,13 +18,13 @@ div {fa
 
 }
 div {
-    width: 100%;
+    width: 100% ;
     height: 300px;
     background-image: url('images/blackfriday.png');
     background size: 100%;
     border: 2px solid #e9385a;
     Display: flex;    flex-direction:column;                        
-};
+}
 
 #form {
   width:200px;
@@ -47,6 +47,14 @@ div {
   }
   #footer a:hover {
     color: white;
+  }
+
+}
+ 
+  .mystyle {
+   font-size: 25;
+   color:white
+   
   }
 
 .fa {
@@ -75,7 +83,6 @@ div {
 .fa-twitter {
   border: 2px solid cornflowerblue;
   border width: 2px;
-  border radialGradient 
   color: black;
   padding: 10px 10px;
   font-size: 16px;
@@ -89,6 +96,8 @@ div {
   padding: 10px 10px;
   font-size: 16px;
   cursor: pointer
+  
+
 }
 .fa-linkedin-square {
   border: 2px solid navy;
